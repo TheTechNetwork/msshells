@@ -2,8 +2,8 @@
 order: 1
 toAdminister: Exchange Online
 name: ExchangeOnlineManagement
-stableVersion: 3.4.0
-previewVersion: 3.4.1-Preview1
+stableVersion: 3.5.0
+previewVersion: 3.5.1-Preview2
 howToInstallPre: >
   ```Install-Module  -Name ExchangeOnlineManagement -RequiredVersion 3.2.0-Preview4 -AllowPrerelease```
 howToConnect: >
